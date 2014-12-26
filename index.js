@@ -3,6 +3,8 @@
 module.exports = isWithin;
 
 function isWithin (input, target, threshold) {
-    if (input - target <= threshold) return true;
+    var upperLimit = target + threshold;
+    var lowerLimit = target - threshold;
+    if (input >= lowerLimit && input <= upperLimit) return true;
     else return false;
 }

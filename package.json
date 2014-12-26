@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alexander-daniel/is-within/issues"
   },
-  "homepage": "https://github.com/alexander-daniel/is-within"
+  "homepage": "https://github.com/alexander-daniel/is-within",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
 }
