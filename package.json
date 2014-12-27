@@ -23,5 +23,8 @@
   "homepage": "https://github.com/alexander-daniel/is-within",
   "devDependencies": {
     "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "tape": "^3.0.3"
   }
 }
