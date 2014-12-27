@@ -1,4 +1,5 @@
-# is-within
+# is-within [![Build Status](https://travis-ci.org/alexander-daniel/is-within.svg?branch=master)](https://travis-ci.org/alexander-daniel/is-within)
+
 Simple tool for testing if a given input is within a threshold of a target.
 
 # example
